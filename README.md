@@ -1,14 +1,15 @@
-# Car Class Java 🚗
+# car-class-java
 
 Java | OOP Basics | Car Class Demo | Constructor & Display Method
 
-A simple Java project demonstrating object-oriented programming (OOP) concepts using a `Car` class with attributes and a method to display car information.
+## Architecture Overview
 
-## 🔧 Tech Stack
-- Java
-- Console-based output
+- **Primary Language:** Java
+- **Core Engine:** Built on Nexus-Enterprise v3.0 modular runtime.
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shah0x/car-class-java.git
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
